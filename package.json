@@ -1,5 +1,6 @@
 {
   "name": "project-3",
+
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,5 +15,3 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^9.0.1"
-  }
-}
